@@ -1,0 +1,6 @@
+streamlit==1.19.0
+pandas==2.2.3
+numpy==2.1.2
+matplotlib==3.7.1
+fpdf==1.7.2
+openpyxl==3.0.10
